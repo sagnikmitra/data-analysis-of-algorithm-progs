@@ -22,7 +22,7 @@ int minKey(int key[], bool mstSet[])
     return min_index;
 }
 
-// A utility function to print the
+// A utility Function to print the
 // constructed MST stored in parent[]
 int printMST(int parent[], int graph[V][V])
 {
